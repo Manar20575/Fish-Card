@@ -10,12 +10,12 @@ Required project in Udasty course ( primitive html+css)
 ==>italicizing text
 ==>altering list item bullets
 
-#Task
+# Task
 Use what you learned about HTML and CSS to convert an initial design into a functional web page!
 
-#Key Takeaways
+# Key Takeaways
 HTML is used to structure your site
 CSS is used for styling
 
-Let's get to show your favorite animal
+# Let's get to show your favorite animal
 
