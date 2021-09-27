@@ -1,6 +1,6 @@
 # Fish-Card
 Required project in Udasty course ( primitive html+css)
-#To be successful , you'll need to have skills in:
+# To be successful , you'll need to have skills in:
 ==>HTML skills
 ==>adding a class to an element
 ==>modifying text content
